@@ -10,14 +10,14 @@ Full Stack Developer
 --------------------
 
 
-Currently pursuing Engineering from IIT Dhanbad, India. I am open to any presented opportunities. Always up for collaborating and learning new tech! Let's Connect and Build something new!
+Currently pursuing Engineering from [**IIT Dhanbad**](https://www.iitism.ac.in/), I am a Full Stack Developer at [**CyberLabs**](https://cyberlabs.club/). I am open to any presented opportunities. Always up for collaborating and learning new tech! Let's Connect and Build something new!
 
 * 🌍  I'm based in Kolkata, India
-* ✉️  You can contact me at [cs.ratul03@gmail.com](mailto:cs.ratul03@gmail.com)
+* ✉️  You can contact me at [**cs.ratul03@gmail.com**](mailto:cs.ratul03@gmail.com)
 * 🚀  I'm currently working on a Realtime Code Collaborating Platform
 * 🧠  I'm learning Blockchain (among others)
 * 🤝  I'm open to collaborating on anything unique and interesting
-* ⚡  I secretly try to excel in what I do ;)
+* ⚡  I *secretly* try to excel in what I do ;)
 
 
 Skills
