@@ -41,7 +41,7 @@ Badges
 --------------------
 <div markdown="1" style="display: flex;" align="left">
   
-  [![Ratul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratul-Saha-003&show_icons=true&theme=github_dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Ratul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratul-Saha-003&show_icons=true&theme=github_dark&hide=stars&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 </div>
 
